@@ -1,5 +1,5 @@
 this is a sample scrapy project that extracts name, price, sale percentage.
-and the n save it to mysql. 
+and then save it to mysql. 
 
 Idk what else to say so just run these:
 
